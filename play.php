@@ -1,0 +1,2 @@
+<iframe src="time.php" style="width:100%;height:50px;background-color:teal;color:white;border:0px;" scrolling="no"></iframe>
+<iframe src="index.php" style="width:100%;height:600px;border:0px;scrolling:no" scrolling="no"></iframe>
